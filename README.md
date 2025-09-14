@@ -1,1 +1,1 @@
-# HealthHint---A-Medical-Chatbot
+# HealthHint-A-Medical-Chatbot
